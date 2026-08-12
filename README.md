@@ -10,7 +10,7 @@
 <!-- **If you are new to repository/extensions, please read the [NovelSourcery Getting Started guide](https://novelsourcery.github.io/docs/guides/getting-started#adding-the-extension-repo) first.** -->
 
 <!-- * You can add our repo by visiting the [novelsourcery Website](https://novelsourcery.github.io/add-repo) -->
-* Otherwise, copy & paste the following URL: https://raw.githubusercontent.com/novelsourcery/extensions/repo/index.min.json
+* Otherwise, copy & paste the following URL: https://raw.githubusercontent.com/NovelSourcery/extensions-beta/repo/index.json
 
 ### Source Code
 
