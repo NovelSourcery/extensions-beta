@@ -6,5 +6,3043 @@
     "website": "https://novelsourcery.github.io",
     "discord": "https://discord.gg/JG2K2jTjd6"
   },
-  "extensionList": {}
+  "extensionList": {
+    "extensions": [
+      {
+        "name": "Calibre",
+        "packageName": "eu.kanade.tachiyomi.novelextension.all.calibre",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-all.calibre-v1.4.1-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-all.calibre-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "4559036889793122925",
+            "name": "Calibre",
+            "language": "all"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "ArNovel",
+        "packageName": "eu.kanade.tachiyomi.novelextension.ar.arnovel",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-ar.arnovel-v1.4.5-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/ar/arnovel/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-ar.arnovel-v1.4.5.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "5",
+        "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "3293873882157672578",
+            "name": "ArNovel",
+            "language": "ar",
+            "homeUrl": "https://ar-no.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Azora",
+        "packageName": "eu.kanade.tachiyomi.novelextension.ar.azora",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-ar.azora-v1.4.5-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/ar/azora/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-ar.azora-v1.4.5.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "5",
+        "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "3544999809861403189",
+            "name": "Azora",
+            "language": "ar",
+            "homeUrl": "https://azoramoon.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Free Kol Novel",
+        "packageName": "eu.kanade.tachiyomi.novelextension.ar.freekolnovel",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-ar.freekolnovel-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/ar/freekolnovel/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-ar.freekolnovel-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "159068325866476764",
+            "name": "Free Kol Novel",
+            "language": "ar",
+            "homeUrl": "https://free.kolnovel.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Galaxy Novels",
+        "packageName": "eu.kanade.tachiyomi.novelextension.ar.galaxynovels",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-ar.galaxynovels-v1.4.3-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/ar/galaxynovels/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-ar.galaxynovels-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "3537320189607150363",
+            "name": "Galaxy Novels",
+            "language": "ar",
+            "homeUrl": "https://galaxynovels.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Golden Rest",
+        "packageName": "eu.kanade.tachiyomi.novelextension.ar.goldenrest",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-ar.goldenrest-v1.4.3-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/ar/goldenrest/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-ar.goldenrest-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "3453130864258448620",
+            "name": "Golden Rest",
+            "language": "ar",
+            "homeUrl": "https://golden.rest"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "HizoManga",
+        "packageName": "eu.kanade.tachiyomi.novelextension.ar.hizomanga",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-ar.hizomanga-v1.4.5-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/ar/hizomanga/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-ar.hizomanga-v1.4.5.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "5",
+        "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "3299958336217533379",
+            "name": "HizoManga",
+            "language": "ar",
+            "homeUrl": "https://hizomanga.net"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Kol Novel",
+        "packageName": "eu.kanade.tachiyomi.novelextension.ar.kolnovel",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-ar.kolnovel-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/ar/kolnovel/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-ar.kolnovel-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "4284947291730245741",
+            "name": "Kol Novel",
+            "language": "ar",
+            "homeUrl": "https://kolnovel.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Markazriwayat",
+        "packageName": "eu.kanade.tachiyomi.novelextension.ar.markazriwayat",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-ar.markazriwayat-v1.4.7-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/ar/markazriwayat/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-ar.markazriwayat-v1.4.7.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "7",
+        "versionName": "1.4.7",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1441955874798897327",
+            "name": "Markazriwayat",
+            "language": "ar",
+            "homeUrl": "https://markazriwayat.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Novel Arab",
+        "packageName": "eu.kanade.tachiyomi.novelextension.ar.novelarab",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-ar.novelarab-v1.4.5-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/ar/novelarab/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-ar.novelarab-v1.4.5.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "5",
+        "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "490148004161223479",
+            "name": "Novel Arab",
+            "language": "ar",
+            "homeUrl": "https://novelarab.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "NovelsParadise",
+        "packageName": "eu.kanade.tachiyomi.novelextension.ar.novelsparadise",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-ar.novelsparadise-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/ar/novelsparadise/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-ar.novelsparadise-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "6366234267253759405",
+            "name": "NovelsParadise",
+            "language": "ar",
+            "homeUrl": "https://novelsparadise.site"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Rewayah Fans",
+        "packageName": "eu.kanade.tachiyomi.novelextension.ar.rewayahfans",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-ar.rewayahfans-v1.4.2-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/ar/rewayahfans/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-ar.rewayahfans-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "3219359210254526553",
+            "name": "Rewayah Fans",
+            "language": "ar",
+            "homeUrl": "https://rewayahfans.net"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Rewayat Club",
+        "packageName": "eu.kanade.tachiyomi.novelextension.ar.rewayatclub",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-ar.rewayatclub-v1.4.3-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/ar/rewayatclub/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-ar.rewayatclub-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8753397603380739117",
+            "name": "Rewayat Club",
+            "language": "ar",
+            "homeUrl": "https://rewayat.club"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Rewayat Fans",
+        "packageName": "eu.kanade.tachiyomi.novelextension.ar.rewayatfans",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-ar.rewayatfans-v1.4.2-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/ar/rewayatfans/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-ar.rewayatfans-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8422897976926013088",
+            "name": "Rewayat Fans",
+            "language": "ar",
+            "homeUrl": "https://rewayatfans.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Riwyat",
+        "packageName": "eu.kanade.tachiyomi.novelextension.ar.riwyat",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-ar.riwyat-v1.4.7-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/ar/riwyat/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-ar.riwyat-v1.4.7.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "7",
+        "versionName": "1.4.7",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "3911602848528027929",
+            "name": "Riwyat",
+            "language": "ar",
+            "homeUrl": "https://cenele.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "SeaNovel",
+        "packageName": "eu.kanade.tachiyomi.novelextension.ar.seanovel",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-ar.seanovel-v1.4.3-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/ar/seanovel/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-ar.seanovel-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "7953088418839296694",
+            "name": "SeaNovel",
+            "language": "ar",
+            "homeUrl": "https://seanovel.org"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Sunovels",
+        "packageName": "eu.kanade.tachiyomi.novelextension.ar.sunovels",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-ar.sunovels-v1.4.2-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/ar/sunovels/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-ar.sunovels-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "4644508340445345656",
+            "name": "Sunovels",
+            "language": "ar",
+            "homeUrl": "https://sunovels.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "AllNovel",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.allnovel",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.allnovel-v1.6.12-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/allnovel/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.allnovel-v1.6.12.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "12",
+        "versionName": "1.6.12",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "4368737766418014452",
+            "name": "AllNovel",
+            "language": "en",
+            "homeUrl": "https://allnovel.org"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "AllNovelFull",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.allnovelfull",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.allnovelfull-v1.6.12-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/allnovelfull/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.allnovelfull-v1.6.12.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "12",
+        "versionName": "1.6.12",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "3273374795580060030",
+            "name": "AllNovelFull",
+            "language": "en",
+            "homeUrl": "https://novgo.net"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "AsianNovel",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.asiannovel",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.asiannovel-v1.4.3-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/asiannovel/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.asiannovel-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "3418460857183586351",
+            "name": "AsianNovel",
+            "language": "en",
+            "homeUrl": "https://www.asianovel.net"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Baka-Tsuki",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.bakatsuki",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.bakatsuki-v1.4.2-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/bakatsuki/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.bakatsuki-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2390732695802024531",
+            "name": "Baka-Tsuki",
+            "language": "en",
+            "homeUrl": "https://www.baka-tsuki.org"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "BoxNovel",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.boxnovel",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.boxnovel-v1.4.5-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/boxnovel/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.boxnovel-v1.4.5.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "5",
+        "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "7944537582591806060",
+            "name": "BoxNovel",
+            "language": "en",
+            "homeUrl": "https://novelnice.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Bright Novels",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.brightnovels",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.brightnovels-v1.4.6-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.brightnovels-v1.4.6.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "6",
+        "versionName": "1.4.6",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "5242035633574598251",
+            "name": "Bright Novels",
+            "language": "en",
+            "homeUrl": "https://brightnovels.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "CitrusAurora",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.citrusaurora",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.citrusaurora-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.citrusaurora-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8315519815201517381",
+            "name": "CitrusAurora",
+            "language": "en",
+            "homeUrl": "https://citrusaurora.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Crimson Scrolls",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.crimsonscrolls",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.crimsonscrolls-v1.4.2-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/crimsonscrolls/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.crimsonscrolls-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "3001741719510838881",
+            "name": "Crimson Scrolls",
+            "language": "en",
+            "homeUrl": "https://crimsonscrolls.net"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Dao Translate",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.daotranslate",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.daotranslate-v1.4.3-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/daotranslate/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.daotranslate-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1640224859473380959",
+            "name": "Dao Translate",
+            "language": "en",
+            "homeUrl": "https://daotranslate.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Divine Dao Library",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.divinedaolibrary",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.divinedaolibrary-v1.4.2-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/divinedaolibrary/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.divinedaolibrary-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1301592106473668409",
+            "name": "Divine Dao Library",
+            "language": "en",
+            "homeUrl": "https://www.divinedaolibrary.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Dragonholic",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.dragonholic",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.dragonholic-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.dragonholic-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "5670522905328930642",
+            "name": "Dragonholic",
+            "language": "en",
+            "homeUrl": "https://dragonholic.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "DragonTea",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.dragontea",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.dragontea-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.dragontea-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "6573506892686767219",
+            "name": "DragonTea",
+            "language": "en",
+            "homeUrl": "https://dragontea.ink"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "DuskBlossoms",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.duskblossoms",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.duskblossoms-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.duskblossoms-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "4003275232501009537",
+            "name": "DuskBlossoms",
+            "language": "en",
+            "homeUrl": "https://duskblossoms.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Eternalune",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.eternalune",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.eternalune-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.eternalune-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "4356393194858999966",
+            "name": "Eternalune",
+            "language": "en",
+            "homeUrl": "https://eternalune.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "EtudeTranslations",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.etudetranslations",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.etudetranslations-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.etudetranslations-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "729214952783379548",
+            "name": "EtudeTranslations",
+            "language": "en",
+            "homeUrl": "https://etudetranslations.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Fans MTL",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.fansmtl",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.fansmtl-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/fansmtl/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.fansmtl-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8778233377956601369",
+            "name": "Fans MTL",
+            "language": "en",
+            "homeUrl": "https://www.fanmtl.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Fenrirealm",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.fenrirealm",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.fenrirealm-v1.4.9-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/fenrirealm/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.fenrirealm-v1.4.9.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "9",
+        "versionName": "1.4.9",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "682359020507936644",
+            "name": "Fenrirealm",
+            "language": "en",
+            "homeUrl": "https://fenrirealm.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Fiction Zone",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.fictionzone",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.fictionzone-v1.4.7-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/fictionzone/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.fictionzone-v1.4.7.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "7",
+        "versionName": "1.4.7",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "3402862690531140747",
+            "name": "Fiction Zone",
+            "language": "en",
+            "homeUrl": "https://fictionzone.net"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "FlameComics",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.flamecomics",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.flamecomics-v1.4.1-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/flamecomics/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.flamecomics-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "7770458229220910108",
+            "name": "FlameComics",
+            "language": "en",
+            "homeUrl": "https://flamecomics.xyz"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Foxaholic",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.foxaholic",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.foxaholic-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/foxaholic/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.foxaholic-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "560087693029350558",
+            "name": "Foxaholic",
+            "language": "en",
+            "homeUrl": "https://www.foxaholic.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Foxaholic 18+",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.foxaholic18",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.foxaholic18-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/foxaholic18/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.foxaholic18-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "1576971061732998427",
+            "name": "Foxaholic 18+",
+            "language": "en",
+            "homeUrl": "https://18.foxaholic.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "FreeWebNovel",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.freewebnovel",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.freewebnovel-v1.6.14-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/freewebnovel/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.freewebnovel-v1.6.14.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "14",
+        "versionName": "1.6.14",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "3970612267773145070",
+            "name": "FreeWebNovel",
+            "language": "en",
+            "homeUrl": "https://freewebnovel.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "FUCKNOVELPIA",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.fucknovelpia",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.fucknovelpia-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/fucknovelpia/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.fucknovelpia-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "5804269069829223912",
+            "name": "FUCKNOVELPIA",
+            "language": "en",
+            "homeUrl": "https://fucknovelpia.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "GenesisStudio",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.genesisstudio",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.genesisstudio-v1.4.1-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/genesisstudio/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.genesisstudio-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8503963922947879196",
+            "name": "GenesisStudio",
+            "language": "en",
+            "homeUrl": "https://genesistudio.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Hiraeth Translation",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.hireaththranslation",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.hireaththranslation-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/hireaththranslation/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.hireaththranslation-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "6649133591871900603",
+            "name": "Hiraeth Translation",
+            "language": "en",
+            "homeUrl": "https://hireaththranslation.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Honeyfeed",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.honeyfeed",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.honeyfeed-v1.4.2-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.honeyfeed-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2250661187879947996",
+            "name": "Honeyfeed",
+            "language": "en",
+            "homeUrl": "https://www.honeyfeed.fm"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Inkitt",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.inkitt",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.inkitt-v1.4.2-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.inkitt-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "5310879781250835183",
+            "name": "Inkitt",
+            "language": "en",
+            "homeUrl": "https://www.inkitt.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "KatReadingCafe",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.katreadingcafe",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.katreadingcafe-v1.4.2-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/katreadingcafe/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.katreadingcafe-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "5617147982503123080",
+            "name": "KatReadingCafe",
+            "language": "en",
+            "homeUrl": "https://katreadingcafe.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "KDT Novels",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.kdtnovels",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.kdtnovels-v1.4.3-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/kdtnovels/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.kdtnovels-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2404335421118475781",
+            "name": "KDT Novels",
+            "language": "en",
+            "homeUrl": "https://kdtnovels.net"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "KnoxT",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.knoxt",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.knoxt-v1.4.3-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.knoxt-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1694245701991367497",
+            "name": "KnoxT",
+            "language": "en",
+            "homeUrl": "https://knoxt.space"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Konkon",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.konkon",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.konkon-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/konkon/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.konkon-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "791209408284977250",
+            "name": "Konkon",
+            "language": "en",
+            "homeUrl": "https://konkon.ink"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "KuuPress",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.kuupress",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.kuupress-v1.4.6-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/kuupress/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.kuupress-v1.4.6.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "6",
+        "versionName": "1.4.6",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2340162337956285866",
+            "name": "KuuPress",
+            "language": "en",
+            "homeUrl": "https://kuupress.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "LazyGirlTranslations",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.lazygirltranslations",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.lazygirltranslations-v1.4.3-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.lazygirltranslations-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "11663996507245137",
+            "name": "LazyGirlTranslations",
+            "language": "en",
+            "homeUrl": "https://lazygirltranslations.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "LeafStudio",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.leafstudio",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.leafstudio-v1.4.1-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/leafstudio/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.leafstudio-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1363176977577976580",
+            "name": "LeafStudio",
+            "language": "en",
+            "homeUrl": "https://leafstudio.site"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "LibRead",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.libread",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.libread-v1.6.14-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/libread/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.libread-v1.6.14.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "14",
+        "versionName": "1.6.14",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "560439935624956734",
+            "name": "LibRead",
+            "language": "en",
+            "homeUrl": "https://libread.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "LightNovelHeaven",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.lightnovelheaven",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.lightnovelheaven-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.lightnovelheaven-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "325496543424009435",
+            "name": "LightNovelHeaven",
+            "language": "en",
+            "homeUrl": "https://lightnovelheaven.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "LightNovelPlus",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.lightnovelplus",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.lightnovelplus-v1.6.11-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/lightnovelplus/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.lightnovelplus-v1.6.11.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "11",
+        "versionName": "1.6.11",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "3371927134342125349",
+            "name": "LightNovelPlus",
+            "language": "en",
+            "homeUrl": "https://lightnovelplus.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Light Novel Translations",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.lightnoveltranslation",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.lightnoveltranslation-v1.4.2-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/lightnoveltranslation/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.lightnoveltranslation-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "7254843651096830186",
+            "name": "Light Novel Translations",
+            "language": "en",
+            "homeUrl": "https://lightnovelstranslations.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Light Novel World",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.lightnovelworld",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.lightnovelworld-v1.6.2-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/lightnovelworld/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.lightnovelworld-v1.6.2.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "2",
+        "versionName": "1.6.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "839287918972732590",
+            "name": "Light Novel World",
+            "language": "en",
+            "homeUrl": "https://lightnovelworld.org"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "LnCrawler",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.lncrawler",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.lncrawler-v1.4.3-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.lncrawler-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1197347819861407414",
+            "name": "LnCrawler",
+            "language": "en",
+            "homeUrl": "https://lncrawler.monster"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "LNMTL",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.lnmtl",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.lnmtl-v1.4.1-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/lnmtl/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.lnmtl-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "5475081638229100683",
+            "name": "LNMTL",
+            "language": "en",
+            "homeUrl": "https://lnmtl.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Lnori",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.lnori",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.lnori-v1.4.5-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.lnori-v1.4.5.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "5",
+        "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "7261249839498803086",
+            "name": "Lnori",
+            "language": "en",
+            "homeUrl": "https://lnori.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "LulloBox",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.lullobox",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.lullobox-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.lullobox-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1157556814144861302",
+            "name": "LulloBox",
+            "language": "en",
+            "homeUrl": "https://lullobox.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "MtlBooks",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.mtlbooks",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.mtlbooks-v1.4.5-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/mtlbooks/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.mtlbooks-v1.4.5.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "5",
+        "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "3383011005869087187",
+            "name": "MtlBooks",
+            "language": "en",
+            "homeUrl": "https://mtlbooks.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "MTL Wuxia",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.mtlwuxia",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.mtlwuxia-v1.4.1-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.mtlwuxia-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8996639704004533082",
+            "name": "MTL Wuxia",
+            "language": "en",
+            "homeUrl": "https://mtlwuxia.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "MVLEMPYR",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.mvlempyr",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.mvlempyr-v1.4.3-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/mvlempyr/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.mvlempyr-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1545118809145757900",
+            "name": "MVLEMPYR",
+            "language": "en",
+            "homeUrl": "https://www.mvlempyr.io"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "MZ Novels",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.mznovels",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.mznovels-v1.4.3-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/mznovels/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.mznovels-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "3541335871283929096",
+            "name": "MZ Novels",
+            "language": "en",
+            "homeUrl": "https://mznovels.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "NeoSekai Translations",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.neosekai",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.neosekai-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/neosekai/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.neosekai-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "4489325604554536441",
+            "name": "NeoSekai Translations",
+            "language": "en",
+            "homeUrl": "https://www.neosekaitranslations.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "NoiceTranslations",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.noicetranslations",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.noicetranslations-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.noicetranslations-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "7237863319795514562",
+            "name": "NoiceTranslations",
+            "language": "en",
+            "homeUrl": "https://noicetranslations.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Novel Archive",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.novelarchive",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.novelarchive-v1.4.1-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/novelarchive/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.novelarchive-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8576123571093797433",
+            "name": "Novel Archive",
+            "language": "en",
+            "homeUrl": "https://novelarchive.cc"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "NovelArrow",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.novelarrow",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.novelarrow-v1.6.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/novelarrow/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.novelarrow-v1.6.4.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "4",
+        "versionName": "1.6.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "452096882710498296",
+            "name": "NovelArrow",
+            "language": "en",
+            "homeUrl": "https://novelarrow.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "NovelBuddy",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.novelbuddy",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.novelbuddy-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/novelbuddy/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.novelbuddy-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1260875580122894435",
+            "name": "NovelBuddy",
+            "language": "en",
+            "homeUrl": "https://novelbuddy.me"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "NovelCool",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.novelcool",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.novelcool-v1.4.3-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/novelcool/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.novelcool-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "7570101320206504111",
+            "name": "NovelCool",
+            "language": "en",
+            "homeUrl": "https://novelcool.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "NovelDex",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.noveldex",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.noveldex-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/noveldex/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.noveldex-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "7550046916586684998",
+            "name": "NovelDex",
+            "language": "en",
+            "homeUrl": "https://noveldex.io"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Novel Fire",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.novelfire",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.novelfire-v1.6.9-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/novelfire/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.novelfire-v1.6.9.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "9",
+        "versionName": "1.6.9",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "362477112063851529",
+            "name": "Novel Fire",
+            "language": "en",
+            "homeUrl": "https://novelfire.net"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "NovelFull",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.novelfull",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.novelfull-v1.6.11-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/novelfull/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.novelfull-v1.6.11.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "11",
+        "versionName": "1.6.11",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1811616907726599068",
+            "name": "NovelFull",
+            "language": "en",
+            "homeUrl": "https://novelfull.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "NovelHall",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.novelhall",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.novelhall-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/novelhall/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.novelhall-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8288303759567562418",
+            "name": "NovelHall",
+            "language": "en",
+            "homeUrl": "https://novelhall.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "NovelHi",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.novelhi",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.novelhi-v1.4.1-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/novelhi/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.novelhi-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8933333716239534946",
+            "name": "NovelHi",
+            "language": "en",
+            "homeUrl": "https://novelhi.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "NovelLib",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.novelib",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.novelib-v1.4.3-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.novelib-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2802724355103170010",
+            "name": "NovelLib",
+            "language": "en",
+            "homeUrl": "https://novelib.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Novelight",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.novelight",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.novelight-v1.4.2-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/novelight/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.novelight-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "4811723336535255643",
+            "name": "Novelight",
+            "language": "en",
+            "homeUrl": "https://novelight.net"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "NovelLib",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.novellib",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.novellib-v1.4.1-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/novellib/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.novellib-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2802724355103170010",
+            "name": "NovelLib",
+            "language": "en",
+            "homeUrl": "https://www.novellib.online"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "NovelLive",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.novellive",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.novellive-v1.6.10-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.novellive-v1.6.10.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "10",
+        "versionName": "1.6.10",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2137700184007023421",
+            "name": "NovelLive",
+            "language": "en",
+            "homeUrl": "https://novellive.app"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "NovelNinja",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.novelninja",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.novelninja-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.novelninja-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2766560283024308037",
+            "name": "NovelNinja",
+            "language": "en",
+            "homeUrl": "https://novelninja.xyz"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Novel Updates",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.novelupdates",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.novelupdates-v1.4.9-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/novelupdates/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.novelupdates-v1.4.9.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "9",
+        "versionName": "1.4.9",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "6281208768820194158",
+            "name": "Novel Updates",
+            "language": "en",
+            "homeUrl": "https://www.novelupdates.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "PastelTales",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.pasteltales",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.pasteltales-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.pasteltales-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "4586279442428839304",
+            "name": "PastelTales",
+            "language": "en",
+            "homeUrl": "https://pasteltales.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "PawRead",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.pawread",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.pawread-v1.4.1-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/pawread/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.pawread-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8494608835809223663",
+            "name": "PawRead",
+            "language": "en",
+            "homeUrl": "https://m.pawread.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "PenguinSquad",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.penguinsquad",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.penguinsquad-v1.4.3-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.penguinsquad-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1142919420987014014",
+            "name": "PenguinSquad",
+            "language": "en",
+            "homeUrl": "https://penguin-squad.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Ranobes",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.ranobes",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.ranobes-v1.4.3-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/ranobes/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.ranobes-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "7992304614005451099",
+            "name": "Ranobes",
+            "language": "en",
+            "homeUrl": "https://ranobes.net"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Ranovel",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.ranovel",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.ranovel-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/ranovel/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.ranovel-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "673813651323612101",
+            "name": "Ranovel",
+            "language": "en",
+            "homeUrl": "https://ranovel.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "ReadFromNet",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.readfromnet",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.readfromnet-v1.4.2-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/readfromnet/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.readfromnet-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "9187677773975308791",
+            "name": "ReadFromNet",
+            "language": "en",
+            "homeUrl": "https://readfrom.net"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "ReadNovelFull",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.readnovelfull",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.readnovelfull-v1.6.11-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.readnovelfull-v1.6.11.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "11",
+        "versionName": "1.6.11",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2528364313208007455",
+            "name": "ReadNovelFull",
+            "language": "en",
+            "homeUrl": "https://readnovelfull.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "ReadNovelMtl",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.readnovelmtl",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.readnovelmtl-v1.4.2-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/readnovelmtl/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.readnovelmtl-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8456932674264376823",
+            "name": "ReadNovelMtl",
+            "language": "en",
+            "homeUrl": "https://readnovelmtl.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Requiem Translations",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.requiemtranslations",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.requiemtranslations-v1.4.3-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.requiemtranslations-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "4229295706597077390",
+            "name": "Requiem Translations",
+            "language": "en",
+            "homeUrl": "https://requiemtls.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Royal Road",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.royalroad",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.royalroad-v1.4.3-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/royalroad/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.royalroad-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "6993920824794899604",
+            "name": "Royal Road",
+            "language": "en",
+            "homeUrl": "https://www.royalroad.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Scribble Hub",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.scribblehub",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.scribblehub-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/scribblehub/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.scribblehub-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "5572365414387909510",
+            "name": "Scribble Hub",
+            "language": "en",
+            "homeUrl": "https://www.scribblehub.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Shanghai Fantasy",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.shanghaifantasy",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.shanghaifantasy-v1.4.3-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.shanghaifantasy-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "7966794143228552291",
+            "name": "Shanghai Fantasy",
+            "language": "en",
+            "homeUrl": "https://shanghaifantasy.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "SleepyTranslations",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.sleepytranslations",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.sleepytranslations-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.sleepytranslations-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "4241748576174736976",
+            "name": "SleepyTranslations",
+            "language": "en",
+            "homeUrl": "https://sleepytranslations.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Sonic MTL",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.sonicmtl",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.sonicmtl-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/sonicmtl/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.sonicmtl-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2968769636965074286",
+            "name": "Sonic MTL",
+            "language": "en",
+            "homeUrl": "https://sonicmtl.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Srank Manga",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.srankmanga",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.srankmanga-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/srankmanga/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.srankmanga-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8115070424191512854",
+            "name": "Srank Manga",
+            "language": "en",
+            "homeUrl": "https://srankmanga.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "StorySeedling",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.storyseedling",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.storyseedling-v1.4.1-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/storyseedling/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.storyseedling-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1923878708529299131",
+            "name": "StorySeedling",
+            "language": "en",
+            "homeUrl": "https://storyseedling.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Sufficient Velocity",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.sufficientvelocity",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.sufficientvelocity-v1.4.2-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.sufficientvelocity-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8110346331336221932",
+            "name": "Sufficient Velocity",
+            "language": "en",
+            "homeUrl": "https://forums.sufficientvelocity.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "System Translation",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.systemtranslation",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.systemtranslation-v1.4.3-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/systemtranslation/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.systemtranslation-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "380372057088352546",
+            "name": "System Translation",
+            "language": "en",
+            "homeUrl": "https://systemtranslation.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "TomatoMTL",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.tomatomtl",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.tomatomtl-v1.4.8-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/tomatomtl/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.tomatomtl-v1.4.8.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "8",
+        "versionName": "1.4.8",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2613863018536210193",
+            "name": "TomatoMTL",
+            "language": "en",
+            "homeUrl": "https://tomatomtl.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Translatin Otaku",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.translatino",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.translatino-v1.4.5-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/translatino/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.translatino-v1.4.5.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "5",
+        "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "4190969717881198477",
+            "name": "Translatin Otaku",
+            "language": "en",
+            "homeUrl": "https://translatinotaku.net"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "TranslationWeaver",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.transweaver",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.transweaver-v1.4.3-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.transweaver-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1551214899682330982",
+            "name": "TranslationWeaver",
+            "language": "en",
+            "homeUrl": "https://transweaver.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "UniversalNovel",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.universalnovel",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.universalnovel-v1.4.3-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.universalnovel-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "6494759171729008737",
+            "name": "UniversalNovel",
+            "language": "en",
+            "homeUrl": "https://universalnovel.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Wattpad",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.wattpad",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.wattpad-v1.4.2-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.wattpad-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "4553407678232489809",
+            "name": "Wattpad",
+            "language": "en",
+            "homeUrl": "https://www.wattpad.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "WebNovel",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.webnovel",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.webnovel-v1.4.3-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/webnovel/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.webnovel-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2969574715769350777",
+            "name": "WebNovel",
+            "language": "en",
+            "homeUrl": "https://www.webnovel.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "WNTL",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.webnoveltranslation",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.webnoveltranslation-v1.4.5-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/webnoveltranslation/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.webnoveltranslation-v1.4.5.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "5",
+        "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "6359432098661297586",
+            "name": "WNTL",
+            "language": "en",
+            "homeUrl": "https://wntl.net"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "WeTried Translations",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.wetriedtls",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.wetriedtls-v1.4.2-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/wetriedtls/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.wetriedtls-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "5280682143460728756",
+            "name": "WeTried Translations",
+            "language": "en",
+            "homeUrl": "https://wetriedtls.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "WoopRead",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.woopread",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.woopread-v1.4.2-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/woopread/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.woopread-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8919726581572234359",
+            "name": "WoopRead",
+            "language": "en",
+            "homeUrl": "https://woopread.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "WordExcerpt",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.wordexcerpt",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.wordexcerpt-v1.4.2-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.wordexcerpt-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "6977450237885033410",
+            "name": "WordExcerpt",
+            "language": "en",
+            "homeUrl": "https://wordexcerpt.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "WTR-LAB",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.wtrlab",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.wtrlab-v1.4.7-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/wtrlab/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.wtrlab-v1.4.7.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "7",
+        "versionName": "1.4.7",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "113591650919252840",
+            "name": "WTR-LAB",
+            "language": "en",
+            "homeUrl": "https://wtr-lab.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Wuxiabox",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.wuxiabox",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.wuxiabox-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/wuxiabox/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.wuxiabox-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "476516676913011994",
+            "name": "Wuxiabox",
+            "language": "en",
+            "homeUrl": "https://wuxiabox.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "WuxiaClick",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.wuxiaclick",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.wuxiaclick-v1.4.5-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.wuxiaclick-v1.4.5.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "5",
+        "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8205328871368913707",
+            "name": "WuxiaClick",
+            "language": "en",
+            "homeUrl": "https://wuxia.click"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "WuxiaDreams",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.wuxiadreams",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.wuxiadreams-v1.4.1-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.wuxiadreams-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "9176973136577410688",
+            "name": "WuxiaDreams",
+            "language": "en",
+            "homeUrl": "https://wuxiadreams.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Wuxia Space",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.wuxiaspace",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.wuxiaspace-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/wuxiaspace/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.wuxiaspace-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "5901129693834223131",
+            "name": "Wuxia Space",
+            "language": "en",
+            "homeUrl": "https://www.wuxiaspot.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "WuxiaWorldEU",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.wuxiaworldeu",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.wuxiaworldeu-v1.4.1-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/wuxiaworldeu/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.wuxiaworldeu-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2133254182037727506",
+            "name": "WuxiaWorldEU",
+            "language": "en",
+            "homeUrl": "https://www.wuxiaworld.eu"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "WuxiaWorld.Site",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.wuxiaworldsite",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.wuxiaworldsite-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/wuxiaworldsite/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.wuxiaworldsite-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "5694100292271268446",
+            "name": "WuxiaWorld.Site",
+            "language": "en",
+            "homeUrl": "https://wuxiaworld.site"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Zetro Translation",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.zetrotranslation",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-en.zetrotranslation-v1.4.6-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-en.zetrotranslation-v1.4.6.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "6",
+        "versionName": "1.4.6",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2889715933247976223",
+            "name": "Zetro Translation",
+            "language": "en",
+            "homeUrl": "https://zetrotranslation.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "PanchoTranslations",
+        "packageName": "eu.kanade.tachiyomi.novelextension.es.panchotranslations",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-es.panchotranslations-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-es.panchotranslations-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "6622548740967742127",
+            "name": "PanchoTranslations",
+            "language": "es",
+            "homeUrl": "https://panchonovels.online"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "TCandSega",
+        "packageName": "eu.kanade.tachiyomi.novelextension.es.tcsega",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-es.tcsega-v1.4.3-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-es.tcsega-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1923893304559604408",
+            "name": "TCandSega",
+            "language": "es",
+            "homeUrl": "https://teamchmantranslations.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "LightNovelFR",
+        "packageName": "eu.kanade.tachiyomi.novelextension.fr.lightnovelfr",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-fr.lightnovelfr-v1.4.3-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-fr.lightnovelfr-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1156057024782165894",
+            "name": "LightNovelFR",
+            "language": "fr",
+            "homeUrl": "https://lightnovelfr.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "MassNovel",
+        "packageName": "eu.kanade.tachiyomi.novelextension.fr.massnovel",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-fr.massnovel-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-fr.massnovel-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8287940850852350427",
+            "name": "MassNovel",
+            "language": "fr",
+            "homeUrl": "https://massnovel.fr"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "WorldNovel",
+        "packageName": "eu.kanade.tachiyomi.novelextension.fr.worldnovel",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-fr.worldnovel-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-fr.worldnovel-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2120145121783706200",
+            "name": "WorldNovel",
+            "language": "fr",
+            "homeUrl": "https://world-novel.fr"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "BacaLightNovel",
+        "packageName": "eu.kanade.tachiyomi.novelextension.id.bacalightnovel",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-id.bacalightnovel-v1.4.3-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-id.bacalightnovel-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "5555188570739928249",
+            "name": "BacaLightNovel",
+            "language": "id",
+            "homeUrl": "https://bacalightnovel.co"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "MeioNovel",
+        "packageName": "eu.kanade.tachiyomi.novelextension.id.meionovel",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-id.meionovel-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-id.meionovel-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2056279441748933787",
+            "name": "MeioNovel",
+            "language": "id",
+            "homeUrl": "https://meionovels.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "NovelBookID",
+        "packageName": "eu.kanade.tachiyomi.novelextension.id.novelbookid",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-id.novelbookid-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-id.novelbookid-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "4150887360353166080",
+            "name": "NovelBookID",
+            "language": "id",
+            "homeUrl": "https://www.novelbook.id"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "SekteNovel",
+        "packageName": "eu.kanade.tachiyomi.novelextension.id.sektenovel",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-id.sektenovel-v1.4.3-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-id.sektenovel-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "7510122882984031060",
+            "name": "SekteNovel",
+            "language": "id",
+            "homeUrl": "https://sektenovel.web.id"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Vanovel",
+        "packageName": "eu.kanade.tachiyomi.novelextension.id.vanovel",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-id.vanovel-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-id.vanovel-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "4090803229971357585",
+            "name": "Vanovel",
+            "language": "id",
+            "homeUrl": "https://vanovel.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "WBNovel",
+        "packageName": "eu.kanade.tachiyomi.novelextension.id.wbnovel",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-id.wbnovel-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-id.wbnovel-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "5380592180003907463",
+            "name": "WBNovel",
+            "language": "id",
+            "homeUrl": "https://wbnovel.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "FortuneEternal",
+        "packageName": "eu.kanade.tachiyomi.novelextension.ko.fortuneeternal",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-ko.fortuneeternal-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-ko.fortuneeternal-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "7250181688108737611",
+            "name": "FortuneEternal",
+            "language": "ko",
+            "homeUrl": "https://www.fortuneeternal.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "CentralNovel",
+        "packageName": "eu.kanade.tachiyomi.novelextension.pt.centralnovel",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-pt.centralnovel-v1.4.3-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-pt.centralnovel-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "5263516259448748392",
+            "name": "CentralNovel",
+            "language": "pt",
+            "homeUrl": "https://centralnovel.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "NovelLucky",
+        "packageName": "eu.kanade.tachiyomi.novelextension.th.novellucky",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-th.novellucky-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-th.novellucky-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8413546289487508849",
+            "name": "NovelLucky",
+            "language": "th",
+            "homeUrl": "https://novel-lucky.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "EKitaplar",
+        "packageName": "eu.kanade.tachiyomi.novelextension.tr.ekitaplar",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-tr.ekitaplar-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-tr.ekitaplar-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "6825140415450889965",
+            "name": "EKitaplar",
+            "language": "tr",
+            "homeUrl": "https://e-kitaplar.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "KodeksLibrary",
+        "packageName": "eu.kanade.tachiyomi.novelextension.tr.kodekslibrary",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-tr.kodekslibrary-v1.4.3-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-tr.kodekslibrary-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1624553426635597196",
+            "name": "KodeksLibrary",
+            "language": "tr",
+            "homeUrl": "https://www.kodekslibrary.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "Namevt",
+        "packageName": "eu.kanade.tachiyomi.novelextension.tr.namevt",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-tr.namevt-v1.4.3-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-tr.namevt-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "5942073212294615800",
+            "name": "Namevt",
+            "language": "tr",
+            "homeUrl": "https://namevt.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "NovelTR",
+        "packageName": "eu.kanade.tachiyomi.novelextension.tr.noveltr",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-tr.noveltr-v1.4.3-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-tr.noveltr-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "515415472970168280",
+            "name": "NovelTR",
+            "language": "tr",
+            "homeUrl": "https://noveltr.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "RagnarScans",
+        "packageName": "eu.kanade.tachiyomi.novelextension.tr.ragnarscans",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-tr.ragnarscans-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-tr.ragnarscans-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "6240964344580584573",
+            "name": "RagnarScans",
+            "language": "tr",
+            "homeUrl": "https://ragnarscans.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "TurkceLightNovels",
+        "packageName": "eu.kanade.tachiyomi.novelextension.tr.turkcelightnovels",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-tr.turkcelightnovels-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-tr.turkcelightnovels-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "4717580804709963013",
+            "name": "TurkceLightNovels",
+            "language": "tr",
+            "homeUrl": "https://turkcelightnovels.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
+        "name": "WebNovelOku",
+        "packageName": "eu.kanade.tachiyomi.novelextension.tr.webnoveloku",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions@repo/apk/tsundoku-tr.webnoveloku-v1.4.4-release.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions/repo/jar/tsundoku-tr.webnoveloku-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "7939032141592605864",
+            "name": "WebNovelOku",
+            "language": "tr",
+            "homeUrl": "https://www.webnoveloku.com"
+          }
+        ],
+        "isNovel": true
+      }
+    ]
+  }
 }
