@@ -1,0 +1,13 @@
+{
+  "name": "NovelSourcery Beta",
+  "badgeLabel": "NS",
+  "signingKey": "4281820d4866bb71bed3dec5224aad9cf4633d44a113682cfb0c3b1cfd71702d",
+  "contact": {
+    "website": "https://novelsourcery.github.io",
+    "discord": "https://discord.gg/JG2K2jTjd6"
+  },
+  "extensionList": {
+    "extensions": [
+    ]
+  }
+}
