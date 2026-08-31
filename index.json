@@ -1879,6 +1879,28 @@
         "isNovel": true
       },
       {
+        "name": "ReChapters",
+        "packageName": "eu.kanade.tachiyomi.novelextension.en.rechapters",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-beta@repo/apk/tachiyomi-en.rechapters-v1.6.2.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/rechapters/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/novelsourcery/extensions-beta/repo/jar/tachiyomi-en.rechapters-v1.6.2.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "2",
+        "versionName": "1.6.2",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "7620326560836305724",
+            "name": "ReChapters",
+            "language": "en",
+            "homeUrl": "https://www.rechapters.com"
+          }
+        ],
+        "isNovel": true
+      },
+      {
         "name": "Requiem Translations",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.requiemtranslations",
         "resources": {
