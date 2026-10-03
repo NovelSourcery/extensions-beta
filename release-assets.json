@@ -211,12 +211,12 @@
   },
   "eu.kanade.tachiyomi.novelextension.en.allnovelfull": {
     "apk": {
-      "name": "tachiyomi-en.allnovelfull-v1.6.17.apk",
-      "sha256": "8f9d94c76087bbf6095952695c43b80e240c6c8c4266aa20c13628e33500da67"
+      "name": "tachiyomi-en.allnovelfull-v1.6.19.apk",
+      "sha256": "3f1d1e774069974e85007e09c487f0d9c5cc3928126d47c660222ea7d82c1c8b"
     },
     "jar": {
-      "name": "tachiyomi-en.allnovelfull-v1.6.17.jar",
-      "sha256": "1f3e728a023103a29e818041b5b3baee68994ce6ab5797043130f46a64e242f3"
+      "name": "tachiyomi-en.allnovelfull-v1.6.19.jar",
+      "sha256": "9ca89d5146a030967a9ba7e9445250aa16fac7334e19051d1e5c7dc01facc061"
     }
   },
   "eu.kanade.tachiyomi.novelextension.en.asiannovel": {

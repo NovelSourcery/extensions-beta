@@ -511,21 +511,21 @@
         "isNovel": true
       },
       {
-        "name": "AllNovelFull",
+        "name": "Novgo",
         "packageName": "eu.kanade.tachiyomi.novelextension.en.allnovelfull",
         "resources": {
-          "apkUrl": "https://github.com/novelsourcery/extensions-beta/releases/download/d4c0edc/tachiyomi-en.allnovelfull-v1.6.17.apk",
+          "apkUrl": "https://github.com/novelsourcery/extensions-beta/releases/download/59d6b5b/tachiyomi-en.allnovelfull-v1.6.19.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/src/en/allnovelfull/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/novelsourcery/extensions-beta/releases/download/d4c0edc/tachiyomi-en.allnovelfull-v1.6.17.jar"
+          "jarUrl": "https://github.com/novelsourcery/extensions-beta/releases/download/59d6b5b/tachiyomi-en.allnovelfull-v1.6.19.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106017",
-        "versionName": "1.6.17",
+        "versionCode": "106019",
+        "versionName": "1.6.19",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3273374795580060030",
-            "name": "AllNovelFull",
+            "name": "Novgo",
             "language": "en",
             "homeUrl": "https://novgo.net"
           }
