@@ -1212,11 +1212,11 @@
   "eu.kanade.tachiyomi.novelextension.en.wuxiaclick": {
     "apk": {
       "name": "tachiyomi-en.wuxiaclick-v1.6.10.apk",
-      "sha256": "fe925cd50af8036ee07f076281fd164c7912c26093c4c02511097882c48c69c1"
+      "sha256": "d079e20cdfab4582b3b326212f10b4342cc348f0ff56e745fd94a620d8859782"
     },
     "jar": {
       "name": "tachiyomi-en.wuxiaclick-v1.6.10.jar",
-      "sha256": "48aa0f2fd370fd480724042a1dfdc375c2dc96b85f3c38672e0a59c4041c65d4"
+      "sha256": "7b0baeef703857f0cc778ef51ff9bb952f973007a92fbcb8a8d1824b4540e1cf"
     }
   },
   "eu.kanade.tachiyomi.novelextension.en.wuxiadreams": {
