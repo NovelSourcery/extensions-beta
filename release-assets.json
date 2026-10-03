@@ -1382,51 +1382,51 @@
   "eu.kanade.tachiyomi.novelextension.jp.syosetu": {
     "apk": {
       "name": "tachiyomi-jp.syosetu-v1.6.9.apk",
-      "sha256": "2f36e070cdb0d6de93d659a43e2db7edc4e4f87cf6c08d929bd2f825cb5292c4"
+      "sha256": "b45516da90f38c8d8ba167f6d04c48ef1b1d7350300b236673c0805b83c0944f"
     },
     "jar": {
       "name": "tachiyomi-jp.syosetu-v1.6.9.jar",
-      "sha256": "8624367a16e1d9a08c7de5b54a441de4cc1887771f969b62b5b919881bf59f96"
+      "sha256": "d801245b2dfdee8445ce3168ce963bf1bcb5b882775f84182aa191492ddcfa0d"
     }
   },
   "eu.kanade.tachiyomi.novelextension.jp.syosetumidnight": {
     "apk": {
       "name": "tachiyomi-jp.syosetumidnight-v1.6.9.apk",
-      "sha256": "529a8245311c5f205297f8c643cb6630866cbcdfcb483d03b7b3654eb5caa5b5"
+      "sha256": "3954f7b97c9ae88ed59e70eb0242760bc41b06153aaa59b283a45cbfa2c054a5"
     },
     "jar": {
       "name": "tachiyomi-jp.syosetumidnight-v1.6.9.jar",
-      "sha256": "ef568d71fe548a9c7ad49b4be70dcc8018e38279aecbb737f60368e200206200"
+      "sha256": "35838320136371b050ab03dc19dcfdfa79f3b3c2f7c605420d6a8165f1873c0c"
     }
   },
   "eu.kanade.tachiyomi.novelextension.jp.syosetumoonlight": {
     "apk": {
       "name": "tachiyomi-jp.syosetumoonlight-v1.6.9.apk",
-      "sha256": "84f0875a9649ff87f6e24c0483651bbb40ebd569144ce972d0d9387076f51ceb"
+      "sha256": "63074c53f2d1dc0ec3545a226eff7308da22bf1834adb6225764b8921675e0cb"
     },
     "jar": {
       "name": "tachiyomi-jp.syosetumoonlight-v1.6.9.jar",
-      "sha256": "e312635cf4e9f0c5514e4fa3c68762399ed77249f85fa5c1e61598f2d00e07da"
+      "sha256": "8463e0a167c3b6122125f38a5976fe443f60df464d2f2ae1a927bf13f723ecf8"
     }
   },
   "eu.kanade.tachiyomi.novelextension.jp.syosetunocturne": {
     "apk": {
       "name": "tachiyomi-jp.syosetunocturne-v1.6.9.apk",
-      "sha256": "bfa584fdf26d97f6224af1c151faa7dc16e811363128b60b68f9462eee7c3876"
+      "sha256": "e37a2d599a479aab55b9120472473016bcabf4b016383f812574d8f752ab96be"
     },
     "jar": {
       "name": "tachiyomi-jp.syosetunocturne-v1.6.9.jar",
-      "sha256": "9608af1225fefb281e1912a99ecd464348fbc3572ca98b8ec9f2c8d1921cbf8d"
+      "sha256": "c381ff15489b0f14f8dc772270c3ab29e8f63a4cb3ba2090588977542cd71ad3"
     }
   },
   "eu.kanade.tachiyomi.novelextension.jp.syosetunovel18": {
     "apk": {
-      "name": "tachiyomi-jp.syosetunovel18-v1.6.9.apk",
-      "sha256": "4d22899e36023868e48646f5870fbd42fb5d134ed4f885fca0f0da0a912ebbc2"
+      "name": "tachiyomi-jp.syosetunovel18-v1.6.10.apk",
+      "sha256": "ce3f2e9f8ee293ac677511667c3fae75f8a5fe87ae8dc39801370e5d13d307a5"
     },
     "jar": {
-      "name": "tachiyomi-jp.syosetunovel18-v1.6.9.jar",
-      "sha256": "e0f27dd764ee025e01bc860ea5b005827c53bc5ed0ac34b8e35f88c5fcfc3ce5"
+      "name": "tachiyomi-jp.syosetunovel18-v1.6.10.jar",
+      "sha256": "eb050787b4a4154c35e02bf92d13c27b821fbc0f818f6bf2fdae9a5de8221eb4"
     }
   },
   "eu.kanade.tachiyomi.novelextension.ko.fortuneeternal": {

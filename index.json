@@ -3088,9 +3088,9 @@
         "name": "\u5c0f\u8aac\u5bb6\u306b\u306a\u308d\u3046",
         "packageName": "eu.kanade.tachiyomi.novelextension.jp.syosetu",
         "resources": {
-          "apkUrl": "https://github.com/novelsourcery/extensions-beta/releases/download/921c791/tachiyomi-jp.syosetu-v1.6.9.apk",
+          "apkUrl": "https://github.com/novelsourcery/extensions-beta/releases/download/7b526fa/tachiyomi-jp.syosetu-v1.6.9.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/novelsourcery/extensions-beta/releases/download/921c791/tachiyomi-jp.syosetu-v1.6.9.jar"
+          "jarUrl": "https://github.com/novelsourcery/extensions-beta/releases/download/7b526fa/tachiyomi-jp.syosetu-v1.6.9.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106009",
@@ -3110,9 +3110,9 @@
         "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8 (R18)",
         "packageName": "eu.kanade.tachiyomi.novelextension.jp.syosetumidnight",
         "resources": {
-          "apkUrl": "https://github.com/novelsourcery/extensions-beta/releases/download/921c791/tachiyomi-jp.syosetumidnight-v1.6.9.apk",
+          "apkUrl": "https://github.com/novelsourcery/extensions-beta/releases/download/7b526fa/tachiyomi-jp.syosetumidnight-v1.6.9.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/novelsourcery/extensions-beta/releases/download/921c791/tachiyomi-jp.syosetumidnight-v1.6.9.jar"
+          "jarUrl": "https://github.com/novelsourcery/extensions-beta/releases/download/7b526fa/tachiyomi-jp.syosetumidnight-v1.6.9.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106009",
@@ -3132,9 +3132,9 @@
         "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8 (R18)",
         "packageName": "eu.kanade.tachiyomi.novelextension.jp.syosetumoonlight",
         "resources": {
-          "apkUrl": "https://github.com/novelsourcery/extensions-beta/releases/download/921c791/tachiyomi-jp.syosetumoonlight-v1.6.9.apk",
+          "apkUrl": "https://github.com/novelsourcery/extensions-beta/releases/download/7b526fa/tachiyomi-jp.syosetumoonlight-v1.6.9.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/novelsourcery/extensions-beta/releases/download/921c791/tachiyomi-jp.syosetumoonlight-v1.6.9.jar"
+          "jarUrl": "https://github.com/novelsourcery/extensions-beta/releases/download/7b526fa/tachiyomi-jp.syosetumoonlight-v1.6.9.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106009",
@@ -3154,9 +3154,9 @@
         "name": "\u30ce\u30af\u30bf\u30fc\u30f3 (R18)",
         "packageName": "eu.kanade.tachiyomi.novelextension.jp.syosetunocturne",
         "resources": {
-          "apkUrl": "https://github.com/novelsourcery/extensions-beta/releases/download/921c791/tachiyomi-jp.syosetunocturne-v1.6.9.apk",
+          "apkUrl": "https://github.com/novelsourcery/extensions-beta/releases/download/7b526fa/tachiyomi-jp.syosetunocturne-v1.6.9.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/novelsourcery/extensions-beta/releases/download/921c791/tachiyomi-jp.syosetunocturne-v1.6.9.jar"
+          "jarUrl": "https://github.com/novelsourcery/extensions-beta/releases/download/7b526fa/tachiyomi-jp.syosetunocturne-v1.6.9.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106009",
@@ -3176,13 +3176,13 @@
         "name": "\u5c0f\u8aac\u5bb6\u306b\u306a\u308d\u3046 (R18)",
         "packageName": "eu.kanade.tachiyomi.novelextension.jp.syosetunovel18",
         "resources": {
-          "apkUrl": "https://github.com/novelsourcery/extensions-beta/releases/download/921c791/tachiyomi-jp.syosetunovel18-v1.6.9.apk",
+          "apkUrl": "https://github.com/novelsourcery/extensions-beta/releases/download/7b526fa/tachiyomi-jp.syosetunovel18-v1.6.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/novelsourcery/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/novelsourcery/extensions-beta/releases/download/921c791/tachiyomi-jp.syosetunovel18-v1.6.9.jar"
+          "jarUrl": "https://github.com/novelsourcery/extensions-beta/releases/download/7b526fa/tachiyomi-jp.syosetunovel18-v1.6.10.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106009",
-        "versionName": "1.6.9",
+        "versionCode": "106010",
+        "versionName": "1.6.10",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
