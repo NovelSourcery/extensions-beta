@@ -831,12 +831,12 @@
   },
   "eu.kanade.tachiyomi.novelextension.en.novelight": {
     "apk": {
-      "name": "tachiyomi-en.novelight-v1.6.7.apk",
-      "sha256": "3c45626898b7c64cbd9d77ccea6533933712ced20e4772ce5637f277b736dcd4"
+      "name": "tachiyomi-en.novelight-v1.6.8.apk",
+      "sha256": "57de692969bd0198adc1eb05f74327f378d8ab2faa5b8fd386a4938aa8ae3825"
     },
     "jar": {
-      "name": "tachiyomi-en.novelight-v1.6.7.jar",
-      "sha256": "63c3875584dd4deb64731350db3e26c991e33b20ab2e4aae3d18a9ce368bb480"
+      "name": "tachiyomi-en.novelight-v1.6.8.jar",
+      "sha256": "c3a9be19d14e1494804579f3b748d138a12257faa403afcc09b2d999a4ba4879"
     }
   },
   "eu.kanade.tachiyomi.novelextension.en.novellib": {
