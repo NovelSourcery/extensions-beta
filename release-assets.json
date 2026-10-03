@@ -21,12 +21,12 @@
   },
   "eu.kanade.tachiyomi.novelextension.all.wtrlab": {
     "apk": {
-      "name": "tachiyomi-all.wtrlab-v1.6.13.apk",
-      "sha256": "946f0582543a54fbcf3340b86b5ca7ea97af64691f7998286a0d9d6bca8ff584"
+      "name": "tachiyomi-all.wtrlab-v1.6.14.apk",
+      "sha256": "5066280db17637582891999d89c1d803d74c5a0baee4c518cddfb7bf590279d8"
     },
     "jar": {
-      "name": "tachiyomi-all.wtrlab-v1.6.13.jar",
-      "sha256": "175b319a33fecd67565e73771adfd73474a6311579ffc744611f665869c13e8f"
+      "name": "tachiyomi-all.wtrlab-v1.6.14.jar",
+      "sha256": "ba11bafbffc15efefe901e9186c194514c2b5073c039f1aee8d0d7d8d9a53ffe"
     }
   },
   "eu.kanade.tachiyomi.novelextension.ar.arnovel": {
